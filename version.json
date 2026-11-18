@@ -1,5 +1,5 @@
 {
-  "versionCode": 29916475,
+  "versionCode": 29916491,
   "versionName": "26.47",
-  "releaseNotes": "-> A fost îmbunătățit sistemul de recunoaștere OCR."
+  "releaseNotes": "-> Textul din labels putea fi afisat incomplet."
 }
